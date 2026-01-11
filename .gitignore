@@ -34,10 +34,8 @@ out/
 /.nb-gradle/
 
 ### VS Code ###
-.vscode/
 
 # Local environment variables
-.env
 .env.file
 .env.example
 
@@ -46,3 +44,5 @@ out/
 CLAUDE.md
 AGENTS.md
 openspec
+config.bat
+node_modules
